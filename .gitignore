@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+
+# pip logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+.cache
+nosetests.xml
+*.cover
+*.py,cover
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pylint
+pylint-report.txt
+pylint-output.txt
+
+# Bandit security scanner
+bandit.json
+
+# test results
+test-results/
+
+# Unit test / coverage reports
+.tox/
+.nox/
+
+# Cython debug symbols
+cython_debug/
+
+# Environment variables
+.env
+.env.*
+
+# Local config
+*.local
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# VS Code Workspace
+*.code-workspace
