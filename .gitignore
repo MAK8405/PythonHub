@@ -90,3 +90,4 @@ cython_debug/
 
 # VS Code Workspace
 *.code-workspace
+demofile.txt
